@@ -2,3 +2,5 @@ hello world!
 ADDING CHANGE -> DEV A
 How are you? Hope you are having a terrific time.
 This line implements featureA in the project source code
+
+Hello Everyone
