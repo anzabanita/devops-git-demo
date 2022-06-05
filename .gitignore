@@ -1,2 +1,5 @@
 logfile.log
 reports/
+code_quality_report.txt
+test.report
+
