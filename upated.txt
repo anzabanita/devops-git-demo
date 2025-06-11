@@ -2,3 +2,5 @@ This is new commit.
 
 
 Master VM
+Slave VM
+
